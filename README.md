@@ -1,12 +1,16 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Octavio Piratininga and i'm a Java Developer, from SP, Brazil 🇧🇷
+- My name is Octavio Piratininga and i'm a Junior Backend Developer, from SP, Brazil 🇧🇷
 
 ## My Techs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
@@ -30,14 +34,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/octavio-piratininga-81514a308/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/octavio-piratininga-81514a308/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://www.twitch.tv/octavio4ever" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://discordapp.com/users/572160121728270361" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo" style="text-decoration: none;"/>
   </a>
 </div>
 
