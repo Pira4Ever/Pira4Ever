@@ -1,6 +1,12 @@
-## 👋 Hi there, welcome to my Github profile
+# 👋 Hi there, welcome to my Github profile
 
-- My name is Octavio Piratininga and i'm a Junior Backend Developer, from SP, Brazil 🇧🇷
+## About me
+My name is Octavio Piratininga and i'm a Junior Backend Developer, from SP, Brazil 🇧🇷.
+I'm a software developer passionate about building backend applications, APIs and solutions that solve real-world problems.
+
+I have professional experience with **.NET and C#**, as well as experience developing applications with **Java and Spring Boot**. I'm also continuously expanding my knowledge in software engineering, cloud, databases, DevOps and modern application development.
+
+Currently, I'm studying **Computer Engineering at UNIVESP** and working on personal projects to improve my technical skills and explore new technologies.
 
 ## My Techs
 <div align="left">
@@ -21,14 +27,22 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
+## 🎯 Currently
+
+* 📚 Studying Computer Engineering at **UNIVESP**
+* 🔨 Building and improving backend projects
+* ☕ Deepening my knowledge of **Java & Spring Boot**
+* 🔷 Continuing to work with **C# & .NET**
+* 🐳 Learning more about Docker, DevOps and cloud technologies
+* 💡 Exploring software architecture and performance
+
 ## My Stats
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pira4ever&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pira4ever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pira4ever&radius=16&theme=dracula&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=pira4ever&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pira4ever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -43,17 +57,3 @@
 </div>
 
 ###
-<!--
-**Pira4Ever/Pira4Ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
